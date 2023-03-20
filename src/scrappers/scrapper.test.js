@@ -4,7 +4,7 @@ describe("Scrapping tests", () => {
   test("Testing the google scrapper", async () => {
     const link = await scrapper.googleScrapper("mukwano");
     console.log("Result is:", link);
-    expect(link).toBe("http://www.mukwano.com");
+    expect(link).toBe("http://www.mukwanocoffee/");
   }, 10000);
 
   test("Testing the company website scrapper", async () => {
