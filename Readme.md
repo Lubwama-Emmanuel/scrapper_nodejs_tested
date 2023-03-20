@@ -1,6 +1,7 @@
 # Scrapping - Nodejs
 
-[![codecov](https://codecov.io/gh/Lubwama-Emmanuel/scrapper_golang/branch/introducing-subtest/graph/badge.svg?token=PH5AG8DSO6)](https://app.codecov.io/gh/Lubwama-Emmanuel/scrapper_golang/tree/introducing-subtest)
+[![codecov](https://codecov.io/gh/Lubwama-Emmanuel/scrapper_nodejs_tested/branch/master/graph/badge.svg?token=Kj9HyEUcGZ)](https://codecov.io/gh/Lubwama-Emmanuel/scrapper_nodejs_tested)
+
 
 ## Description
 
